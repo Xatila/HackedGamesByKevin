@@ -158,3 +158,6 @@ ul, li {
     font-size: 100px;
     margin-left: 5%;
   }
+  body{
+    position:relative;
+  }
